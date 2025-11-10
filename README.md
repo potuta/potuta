@@ -53,7 +53,9 @@
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Website-Coming%20Soon-inactive?&style=for-the-badge" />
+  <a href="https://lesserdev.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="mailto:cyrilbautista2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
