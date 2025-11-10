@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Potuta</h1>
+<h1 align="center">Hi 👋, I'm LesserDev</h1>
 <h3 align="center">💻 Full Stack Web Developer | Software Developer | Aspiring Game Developer</h3>
 
 ---
