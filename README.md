@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm LesserDev</h1>
-<h3 align="center">💻 Full Stack Web Developer | Software Developer | Aspiring Game Developer</h3>
+<h3 align="center">💻 Full Stack Web Developer | Aspiring Game Developer</h3>
 
 ---
 
 <p align="start">
   🌍 I'm a passionate developer from the <b>Philippines</b> 🇵🇭 <br>
   🎓 Currently in my 4th year of <b>Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
-  💻 I'm a <b>Full Stack Web Developer</b> & <b>Software Developer</b><br>
+  💻 I consider myself a <b>Full Stack Web Developer</b> 
   🎮 Interested in <b>Game Development</b><br>
   🖤 My favorite language right now is <b>C#</b><br>
   🚀 I enjoy challenging myself by learning new skills and techniques<br>
