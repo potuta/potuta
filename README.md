@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm LesserDev</h1>
-<h3 align="center">💻 Full Stack Web Developer | Aspiring Game Developer</h3>
+<h3 align="center">💪 Currently in my training arc at Accenture</h3>
 
 ---
 
 <p align="start">
-  🌍 I'm a passionate developer from the <b>Philippines</b> 🇵🇭 <br>
-  🎓 Currently in my 4th year of <b>Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
-  💻 I consider myself a <b>Full Stack Web Developer</b> 
-  🎮 Interested in <b>Game Development</b><br>
-  🖤 My favorite language right now is <b>C#</b><br>
-  🚀 I enjoy challenging myself by learning new skills and techniques<br>
+  🌍 I'm a passionate programmer and developer from the <b>Philippines</b> 🇵🇭 <br>
+  🎓 Currently a 4th year Student in <b>Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
+  💼 Working as an Intern</b> at <b>Accenture</b><br>
+  💻 I consider myself a <b>Full Stack Developer</b><br>
+  🎮 Also Interested in <b>Game Development</b><br>
+  🖤 My favorite language to use is <b>C#</b><br>
+  🚀 I enjoy challenging programming, self-learning, problem-solving, and learning new skills<br>
   📚 Hobbies: reading web comics (manga / manhwa / manhua), watching anime, and playing games 🎮
 </p>
 
@@ -62,11 +63,8 @@
   <a href="https://steamcommunity.com/id/cyy28">
     <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://myanimelist.net/profile/potuta">
-    <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.anime-planet.com/users/potuta">
-    <img src="https://img.shields.io/badge/Anime--Planet-F95472?logo=anime-planet&logoColor=white&style=for-the-badge" />
+  <a href="https://anilist.co/user/LesserDev/">
+    <img src="https://img.shields.io/badge/AniList-2b2d4e?logo=anilist&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
