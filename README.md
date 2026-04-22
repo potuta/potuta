@@ -16,16 +16,34 @@
 
 ---
 
+<h2 align="center">👨‍💻 Currently Learning</h2>
+
+<!-- Tech Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP%20ABAP%20Development-0FAAFF?logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20ERP-0FAAFF?logo=sap&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
+</p>
+
 <h2 align="center">🛠️ Tech Stack & Tools I Use Regularly</h2>
 
 <!-- Languages -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white" />
 </p>
 
