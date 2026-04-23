@@ -72,11 +72,14 @@
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <a href="https://lesserdev.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/cyril-bautista-a7ab123a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:cyrilbautista2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://lesserdev.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://steamcommunity.com/id/cyy28">
     <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" />
