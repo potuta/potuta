@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 Currently Learning</h2>
+<h2 align="center">👨‍💻 Currently Focus</h2>
 
 <!-- Tech Stack -->
 <p align="center">
