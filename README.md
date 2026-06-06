@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm LesserDev</h1>
-<h3 align="center">💪 Currently in my training arc at Accenture</h3>
+<h3 align="center">Full Stack | Software Engineer</h3>
 
 ---
 
 <p align="start">
   🌍 I'm a passionate programmer and developer from the <b>Philippines</b> 🇵🇭 <br>
-  🎓 Currently a 4th year Student in <b>Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
-  💼 Working as an Intern</b> at <b>Accenture</b><br>
-  💻 I consider myself a <b>Full Stack Developer</b><br>
+  🎓 Graduating student in <b>Bachelor of Science in Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
+  <!-- 💼 Working as an Intern</b> at <b>Accenture</b><br> -->
+  💻 I consider myself a <b>Full Stack Developer & Software Engineer</b><br>
   🎮 Also Interested in <b>Game Development</b><br>
   🖤 My favorite language to use is <b>C#</b><br>
   🚀 I enjoy challenging programming, self-learning, problem-solving, and learning new skills<br>
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 Currently Focus</h2>
+<h2 align="center">👨‍💻 Current Focus</h2>
 
 <!-- Tech Stack -->
 <p align="center">
