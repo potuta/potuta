@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm LesserDev</h1>
-<h3 align="center">Full Stack | Software Engineer</h3>
+<h3 align="center">Software Engineer at Accenture</h3>
 
 ---
 
 <p align="start">
   🌍 I'm a passionate programmer and developer from the <b>Philippines</b> 🇵🇭 <br>
-  🎓 Graduating student in <b>Bachelor of Science in Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
-  <!-- 💼 Working as an Intern</b> at <b>Accenture</b><br> -->
+  🎓 Graduated with a <b>Bachelor of Science in Information Technology</b> at <b>STI College Ortigas-Cainta</b><br>
+  💼 Working as a Software Engineer</b> at <b>Accenture</b><br>
   💻 I consider myself a <b>Full Stack Developer & Software Engineer</b><br>
   🎮 Also Interested in <b>Game Development</b><br>
   🖤 My favorite language to use is <b>C#</b><br>
-  🚀 I enjoy challenging programming, self-learning, problem-solving, and learning new skills<br>
+  🚀 I enjoy coding challenges, self-learning, problem-solving, and learning new skills<br>
   📚 Hobbies: reading web comics (manga / manhwa / manhua), watching anime, and playing games 🎮
 </p>
 
@@ -19,11 +19,8 @@
 <h2 align="center">👨‍💻 Current Focus</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-00599C?logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
 </p>
 
@@ -34,11 +31,12 @@
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-00599C?logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
